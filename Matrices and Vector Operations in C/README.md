@@ -8,7 +8,6 @@ This is my first ever project in the university. It is called Matrices and Vecto
 - [Features](#features)
 - [Usage](#usage)
 - [Notes](#notes)
-- [Testing](#testing)
 - [Contact](#contact)
 
 ## Introduction
@@ -62,11 +61,19 @@ At any time, you can select option 9 to terminate the program.
 <img width="542" alt="Στιγμιότυπο οθόνης 2024-09-26, 2 37 28 μμ" src="https://github.com/user-attachments/assets/a24df19b-ef03-4ecc-b2ec-ec81070239a6">
 
 ## Notes
-
-Make sure the files that contain the matrices and the vectors are in a .txt file and they have the same layout as the ones in the examples that I have uploaded
-
-When a matrix/vector is deleted, their space gets empty and is not replaced by another matrix/vector
+> [!NOTE]
+> Make sure the files that contain the matrices and the vectors are in a .txt file and they have the same layout as the ones in the examples that I have uploaded
 
 
+> [!NOTE]
+> When a matrix/vector is deleted, their space gets empty and is not replaced by another matrix/vector
+
+## Contact
+
+* Name: Vagelis Zarkadoulas
+* Email: vagzarkadoulasdh@gmail.com
+* GitHub: vagzark
+
+[Return to the top](#matrices-and-vector-operations-in-c)
 
 
