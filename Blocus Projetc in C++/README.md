@@ -56,7 +56,7 @@ To run the program, follow these steps:
 * Email: vagzarkadoulasdh@gmail.com
 * GitHub: vagzark
 
-[Return to the top](#blocus-project-in-c++)
+[Return to the top](#table-of-contents)
 
 
 
